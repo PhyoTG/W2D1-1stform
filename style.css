@@ -1,0 +1,17 @@
+form input, form span , form label{
+    display: block;
+    padding: 1%;
+}
+
+form span{
+    font-size: small;
+}
+
+form input{
+    width: 97%;
+}
+
+#submit{
+    width: 99% !important;
+    margin-top: 3%;
+}
